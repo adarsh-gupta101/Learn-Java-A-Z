@@ -1,4 +1,5 @@
 <h3>Operators in Java</h3>
+
 | Operator Type     | Category          | Precedence          |
 | ----------------- | ------------------ | ------------------- |
 | Unary             | postfix            | expr++ expr--       |
